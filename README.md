@@ -21,20 +21,20 @@ is a living document and will be updated as the committee edits it.
 ## Schedule
 Last Monday of the month, unless otherwise noted.
 
-| date       | topic                                                       |
-|------------|-------------------------------------------------------------|
-| 2026.06.29 | Introduction, [F23 Feature Overview](#f23-feature-overview) |
-| 2026.07.27 | F23: New Array Features, Intrinsic Procedures and Modules   |
-| 2026.08.31 | F23: Input/Output; F23/F18: Obsolete Features               |
-| 2026.09.28 | F23/F18/F08: Interoperability: C, Python, Etc               |
-| 2026.10.26 | F23/F18/F95: Simple, Elemental, Impure, Pure                |
-| 2026.11.30 | F23/F18/F08: Parallel Features, Do Concurrent, Reduction    |
-| 2027.01.25 | F23/F18/F08: Parallel Coarrays                              |
-| 2027.02.22 | F23/F18/F08: Teams                                          |
-| 2027.03.29 | F23/F18/F08: Events                                         |
-| 2027.04.26 | F18: Conformance with ISO/IEC/IEEE 60559:2011               |
-| 2027.06.28 | F18: Features that address deficiencies and discrepancies   |
-| 2027.07.26 | F28: Overview, Generics and Templates                       |
+| date       | standard      | topic                                                       |
+|------------|---------------|-------------------------------------------------------------|
+| 2026.06.29 | F23           | Introduction, [F23 Feature Overview](#f23-feature-overview) |
+| 2026.07.27 | F23           | New Array Features, Intrinsic Procedures and Modules        |
+| 2026.08.31 | F23           | Input/Output; F23/F18: Obsolete Features                    |
+| 2026.09.28 | F23, F18, F08 | Interoperability: C, Python, Etc                            |
+| 2026.10.26 | F23, F18, F95 | Simple, Elemental, Impure, Pure                             |
+| 2026.11.30 | F23, F18, F08 | Parallel Features, Do Concurrent, Reduction                 |
+| 2027.01.25 | F23, F18, F08 | Parallel Coarrays                                           |
+| 2027.02.22 | F23, F18, F08 | Teams                                                       |
+| 2027.03.29 | F23, F18, F08 | Events                                                      |
+| 2027.04.26 | F18           | Conformance with ISO/IEC/IEEE 60559:2011                    |
+| 2027.06.28 | F18           | Features that address deficiencies and discrepancies        |
+| 2027.07.26 | F28           | Overview, Generics and Templates                            |
 
 
 ### F23 Feature Overview
@@ -85,3 +85,5 @@ else
     foo = .false.
 end if
 ```
+
+* More to be added
