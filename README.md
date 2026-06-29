@@ -65,9 +65,9 @@ subroutine work(a)
 
 ```fortran
 enumeration type :: colour
-  penumerator :: red, orange, green
+  enumerator :: red, orange, green
 end enumeration type
-type(colour) light
+type(colour) :: light
 ...
 if (light==red) ...
 ```
