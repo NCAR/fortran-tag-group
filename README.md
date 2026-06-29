@@ -86,4 +86,26 @@ else
 end if
 ```
 
-* More to be added
+* Extracting tokens from strings with `split` and `tokenize`
+
+* Trig functions that work in degrees and half revolutions
+  * degrees: add `d` to the instrinsic name, such as `cosd(x)`
+  * half revolutions: add `pi` to instrinsic name, such as `cospi(x)`
+
+* New kinds: `logical8, logical16, logical32, logical64, real16`
+
+* Extend the intrinsic procedure `c_f_pointer` to allow its pointer result to
+  have specified lower bounds
+
+* Procedures for converting between Fortran and C strings: `f_c_string,
+  c_f_strpointer, c_f_strpointer`
+
+* IO: control over leading zeros of real values
+
+* `Simple` procedure: cannot access outside variables. A stricter `pure` procedure
+
+* Using integer arrays to specify subscripts and section subscripts
+  * `A(@[2,7]) ! equivalent to A(2, 7)`
+  * And more!
+
+* Reduction specifier for `do concurrent`: using instrinsic operators `+, *, min, max, .and., .or., .eqv., .neqv.`
