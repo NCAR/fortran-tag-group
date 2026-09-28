@@ -29,8 +29,8 @@ Last Monday of the month, unless otherwise noted.
 |------------|---------------|---------------------------------------------------------------------------------------------------|-----------|
 | 2026.06.29 | F23           | Introduction, [F23 Feature Overview](doc/f23-feature-overview.md)                                 |           |
 | 2026.07.27 | F23           | [Notes](doc/f23-array-intrinsic-modules.md): New Array Features, Intrinsic Procedures and Modules | Soren     |
-| 2026.08.31 |               | [Build Systems 101](doc/build-systems.md): CMake, Make, Etc.                                      | Dom       |
-| 2026.09.28 |               | [Build Systems 201](doc/build-systems.md): CMake, Make, Etc.                                      | Dom       |
+| 2026.08.31 |               | [Build System Slides](doc/slides/CMake-for-Fortran.pptx): CMake, Make, Etc.                       | Dom       |
+| 2026.09.28 |               | [Build System Slides](doc/slides/CMake-for-Fortran.pptx): CMake, Make, Etc.                       | Dom       |
 | 2026.10.26 | F23, F18, F08 | Input/Output; F23/F18: Obsolete Features                                                          |           |
 | 2026.11.30 | F23, F18, F95 | Interoperability: C, Python, Etc                                                                  | Soren     |
 | 2027.01.25 | F23, F18, F08 | Machine Learning Libraries and Resources                                                          | Dom       |
